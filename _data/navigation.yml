@@ -18,8 +18,5 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Projects"
     url: "/#-selected-projects"

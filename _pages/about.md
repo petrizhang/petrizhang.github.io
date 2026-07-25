@@ -77,10 +77,6 @@ If you are interested in my research or potential collaborations, feel free to [
 - *2017.09 – 2024.06*, **Shanghai Jiao Tong University**, Ph.D. in Computer Science and Engineering.
 - *2013.09 – 2017.06*, **Xidian University**, Bachelor's degree in Information Security (Experimental Program).
 
-# 💬 Invited Talks
-
-- *2024.10*, **Introducing Vector Similarity Search**, StarRocks × Tencent webinar. [[Event](https://celerdata.com/events)]
-
 # 💻 Selected Projects
 
 - [**TRIM**](https://github.com/petrizhang/TRIM): a header-only C++ library with Python bindings for accelerating high-dimensional vector search through enhanced triangle-inequality pruning.
