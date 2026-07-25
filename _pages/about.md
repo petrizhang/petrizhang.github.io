@@ -36,7 +36,7 @@ If you are interested in my research or potential collaborations, feel free to [
 - *2024.12*: UNIFY was accepted by VLDB 2025.
 - *2024.10*: Gave a StarRocks × Tencent webinar on vector similarity search.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 - [**CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search**](https://arxiv.org/abs/2606.29968)  
   Y. Song, S. Lu, X. Zhou, **Pengcheng Zhang**, J. Xu. *arXiv preprint*, 2026.  
