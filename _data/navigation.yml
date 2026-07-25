@@ -12,11 +12,11 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
+  - title: "Honors & Awards"
+    url: "/#-honors--awards"
+
   - title: "Experience"
     url: "/#-experience"
 
   - title: "Education"
     url: "/#-education"
-
-  - title: "Honors & Awards"
-    url: "/#-honors--awards"
