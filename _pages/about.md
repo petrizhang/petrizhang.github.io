@@ -28,8 +28,8 @@ If you are interested in my research or potential collaborations, feel free to [
 # 🔬 Research Interests
 
 - **Modern Execution Engine:** vectorized execution, JIT query compilation, and GPU query execution
-- **Distributed Data Processing Systems:** distributed OLAP, batch processing, and query optimization
-- **Vector Databases:** vector indexing, approximate nearest-neighbor search, and filtered search
+- **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
+- **Vector Database:** vector indexing, approximate nearest-neighbor search, and filtered search
 
 # 🔥 News
 
