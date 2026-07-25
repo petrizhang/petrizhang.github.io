@@ -1,4 +1,10 @@
 <script src="assets/js/main.min.js"></script>
 
+{% if page.permalink == "/" %}
+<script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.7.0/dist/jsvectormap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.7.0/dist/maps/world.js"></script>
+<script src="assets/js/visitor-map.js"></script>
+{% endif %}
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
