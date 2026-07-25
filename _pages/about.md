@@ -38,9 +38,6 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 📝 Selected Publications
 
-- <span class="pub-venue">arXiv 2026</span> Yitong Song, Shuhang Lu, Xuanhe Zhou, **Pengcheng Zhang**, Jianliang Xu.<br>
-  CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search. *arXiv preprint*, 2026.
-
 - <span class="pub-venue">IEEE TC 2026</span> Yaoguang Yong, Xiaoming Du, Yunong Wang, **Pengcheng Zhang**, Xuhua Ma, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
   Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning. *IEEE Transactions on Computers*, 2026.
 
