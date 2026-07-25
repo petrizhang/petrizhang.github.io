@@ -67,7 +67,7 @@ If you are interested in my research or potential collaborations, feel free to [
 # 💼 Experience
 
 - *Present*, Senior Engineer, **Tencent Big Data**, Shanghai, China.
-- *2023.03 – 2024.06*, Intern, **Tencent**, OLAP & HSAP. Worked on Tencent's next-generation multimodal data retrieval and analytics system, focusing on the unified HSAP architecture, vector indexing and search, and OLAP execution engine design.
+- *2023.03 – 2024.06*, Intern, **Tencent**, StarRocks.
 - *2021.06 – 2023.03*, Intern, **Alibaba Cloud**, ECS Reliability Modeling. Worked on intelligent operations for Alibaba Cloud ECS; this work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
 
 # 🎓 Education
