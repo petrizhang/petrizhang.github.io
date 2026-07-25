@@ -25,7 +25,7 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 🔬 Research Interests
 
-- **Vectorized Execution Engine:** TEngine, vectorized execution, JIT compilation, and pipelined execution
+- **Modern Execution Engine:** TEngine, vectorized execution, JIT compilation, and pipelined execution
 - **Large-Scale Data Processing Systems:** distributed OLAP, batch processing, query optimization, and semantic caching
 - **Vector Databases:** approximate nearest-neighbor search, filtered search, and high-dimensional pruning
 
