@@ -81,3 +81,20 @@ If you are interested in my research or potential collaborations, feel free to [
 
 - *2017.09 – 2024.06*, **Shanghai Jiao Tong University**, Ph.D. in Computer Science and Engineering.
 - *2013.09 – 2017.06*, **Xidian University**, Bachelor's degree in Information Security (Experimental Program).
+
+# 📜 Selected Patents
+
+- <span class="pub-venue">申请公开</span> **张鹏程**、程广旭、蒋杰、刘煜宏、陈鹏、罗韩梅、杜佶峻、赵裕隆。<br>
+  数据查询方法及其相关产品。中国发明专利申请 CN202411255378.6（公开号 CN121636545A），2026。
+
+- <span class="pub-venue">申请公开</span> **张鹏程**、程广旭、陈奕安。<br>
+  数据处理方法、装置、设备、存储介质和产品。中国发明专利申请 CN202410039737.8（公开号 CN120296039A），2025。
+
+- <span class="pub-venue">已授权</span> 徐姚亨、姚斌、**张鹏程**、唐飞龙、沈耀、郑文立。<br>
+  一种基于Spark的大规模高维数据近似近邻查询系统和方法。中国发明专利 CN114329094B，2024（申请号 CN202111672312.3）。
+
+- <span class="pub-venue">已授权</span> 陆元飞、魏闯先、楼仁杰、吴斌、姚斌、**张鹏程**、高超。<br>
+  一种向量检索方法及装置。中国发明专利 CN113449132B，2022（申请号 CN202110991057.2）。
+
+- <span class="pub-venue">申请公开</span> 倪波、周宇、郭松、**张鹏程**、鲍文乐。<br>
+  一种服务异常处理方法、装置和计算设备。中国发明专利申请 CN201811120304.6（公开号 CN110928714A），2020。
