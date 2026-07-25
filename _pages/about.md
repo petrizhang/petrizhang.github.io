@@ -68,7 +68,7 @@ If you are interested in my research or potential collaborations, feel free to [
 
 - *Present*, Senior Engineer, **Tencent Big Data**, Shanghai, China.
 - *2023.03 – 2024.06*, Intern, **Tencent**. Led the development of [TenANN](https://github.com/StarRocks/tenann) and contributed [vector search capabilities](https://github.com/StarRocks/starrocks/issues/46678) to the StarRocks open-source community.
-- *2021.06 – 2023.03*, Intern, **Alibaba Cloud**, ECS Reliability Modeling. Worked on intelligent operations for Alibaba Cloud ECS; this work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
+- *2021.06 – 2023.03*, Intern, **Alibaba Cloud**. Worked on XBrain, an AIOps system deployed in Alibaba Cloud ECS production for over two years, operating at million-node scale and reducing unexpected node unavailability by 60%. This work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
 
 # 🎓 Education
 
