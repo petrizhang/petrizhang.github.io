@@ -19,14 +19,14 @@ redirect_from:
 
 I am an engineer and researcher at **Tencent Big Data**.
 
-I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous compute engine at Tencent. I also work on building large-scale distributed data processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, the vector database **TEngineDB-V**, and the unified query gateway **SuperSQL**.
+I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous execution engine at Tencent. I also work on building large-scale distributed data processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, the vector database **TEngineDB-V**, and the unified query gateway **SuperSQL**.
 
 If you are interested in my research or potential collaborations, feel free to [get in touch](mailto:petrizhang@tencent.com).
 
 # 🔬 Research Interests
 
-- **Distributed Data Systems:** OLAP, batch processing, query optimization, and semantic caching
-- **Heterogeneous Compute Engines:** TEngine, vectorized execution, JIT compilation, and pipelined execution
+- **Heterogeneous Execution Engines:** TEngine, vectorized execution, JIT compilation, and pipelined execution
+- **Large-Scale Data Processing Systems:** distributed OLAP, batch processing, query optimization, and semantic caching
 - **Vector Databases:** approximate nearest-neighbor search, filtered search, and high-dimensional pruning
 
 # 🔥 News
