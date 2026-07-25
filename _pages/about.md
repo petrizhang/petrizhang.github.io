@@ -25,9 +25,9 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 🔬 Research Interests
 
-- **OLAP Systems:** query optimization, semantic caching, and analytical workloads
-- **Heterogeneous Query Execution:** TEngine, vectorized execution, JIT compilation, and pipelined execution
-- **Vector Search:** vector indexes, approximate nearest-neighbor search, filtered search, and high-dimensional pruning
+- **Distributed Data Systems:** OLAP, batch processing, query optimization, and semantic caching
+- **Heterogeneous Compute Engines:** TEngine, vectorized execution, JIT compilation, and pipelined execution
+- **Vector Databases:** approximate nearest-neighbor search, filtered search, and high-dimensional pruning
 
 # 🔥 News
 
