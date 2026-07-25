@@ -76,10 +76,3 @@ If you are interested in my research or potential collaborations, feel free to [
 
 - *2017.09 – 2024.06*, **Shanghai Jiao Tong University**, Ph.D. in Computer Science and Engineering.
 - *2013.09 – 2017.06*, **Xidian University**, Bachelor's degree in Information Security (Experimental Program).
-
-# 💻 Selected Projects
-
-- [**TRIM**](https://github.com/petrizhang/TRIM): a header-only C++ library with Python bindings for accelerating high-dimensional vector search through enhanced triangle-inequality pruning.
-- [**LEQAT**](https://github.com/petrizhang/leqat): reference implementation for learning-based query optimization in multi-probe approximate nearest-neighbor search.
-- [**ANN Papers**](https://github.com/petrizhang/ANN-Papers): a curated reading list for approximate nearest-neighbor search and modern vector indexing.
-- [**Crisp**](https://github.com/petrizhang/crisp): a compile-time Lisp interpreter implemented with C++ templates.
