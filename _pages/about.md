@@ -104,10 +104,30 @@ If you are interested in my research or potential collaborations, feel free to [
 # 🌍 Visitor Map
 
 <div class="visitor-map-card">
-  <div
-    id="visitor-world-map"
-    class="visitor-world-map"
-    aria-label="All-time visitor distribution by country"
-  ></div>
-  <div id="visitor-map-selection" class="visitor-map-selection" aria-live="polite"></div>
+  <div class="visitor-map-visual">
+    <div
+      id="visitor-world-map"
+      class="visitor-world-map"
+      aria-label="All-time visitor distribution by country or region"
+    ></div>
+    <div id="visitor-map-selection" class="visitor-map-selection" aria-live="polite"></div>
+  </div>
+
+  <aside class="visitor-map-stats" aria-label="All-time visitor statistics">
+    <div class="visitor-map-stats__eyebrow">ALL TIME</div>
+    <div class="visitor-map-stats__totals">
+      <div>
+        <strong id="visitor-total">0</strong>
+        <span>Visitors</span>
+      </div>
+      <div>
+        <strong id="visitor-country-total">0</strong>
+        <span>Countries / Regions</span>
+      </div>
+    </div>
+    <div class="visitor-map-stats__heading">Top countries / regions</div>
+    <ol id="visitor-top-countries" class="visitor-map-stats__list">
+      <li class="visitor-map-stats__empty">No visitor data yet</li>
+    </ol>
+  </aside>
 </div>
