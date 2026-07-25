@@ -19,7 +19,9 @@ redirect_from:
 
 I am an engineer and researcher at **Tencent Big Data**.
 
-I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous compute engine at Tencent. I also work on building large-scale distributed data processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, the vector database **TEngineDB-V**, and the unified query gateway **SuperSQL**. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
+I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous compute engine at Tencent. I also work on building large-scale distributed data processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, the vector database **TEngineDB-V**, and the unified query gateway **SuperSQL**.
+
+If you are interested in my research or potential collaborations, feel free to [get in touch](mailto:petrizhang@tencent.com).
 
 # 🔬 Research Interests
 
@@ -79,7 +81,3 @@ I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supe
 - [**LEQAT**](https://github.com/petrizhang/leqat): reference implementation for learning-based query optimization in multi-probe approximate nearest-neighbor search.
 - [**ANN Papers**](https://github.com/petrizhang/ANN-Papers): a curated reading list for approximate nearest-neighbor search and modern vector indexing.
 - [**Crisp**](https://github.com/petrizhang/crisp): a compile-time Lisp interpreter implemented with C++ templates.
-
-# Contact
-
-If you are interested in my research or potential collaborations, feel free to [get in touch](mailto:petrizhang@tencent.com).
