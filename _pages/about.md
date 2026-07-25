@@ -43,7 +43,7 @@ If you are interested in my research or potential collaborations, feel free to [
 ^ Denotes equal contribution.
 </div>
 
-- <span class="pub-venue">VLDB 2026</span> Xufei Wu<sup>^</sup>, **Pengcheng Zhang**<sup>^</sup>, Yitong Song, Xiaobo Zhang, Anqi Liang, Guoliang Li, Jiaqi Tian, Xuanhe Zhou.<br>
+- <span class="pub-venue">VLDB 2026</span> Xufei Wu<sup>^</sup>, **Pengcheng Zhang**<sup>^</sup>, Yitong Song, Xiaobo Zhang, Anqi Liang, Kai Wang, Jijun Du, Yidi Xiong, Guangxu Cheng, Zhe Chen, Peng Chen, Guoliang Li, Xuanhe Zhou, Fan Wu.<br>
   TEngineDB-V: An OLAP-Native Vector Search System for Large-k Workloads at Tencent. *Proceedings of the VLDB Endowment*, 2026.
 
 - <span class="pub-venue">IEEE TC 2026</span> Yaoguang Yong, Xiaoming Du, Yunong Wang, **Pengcheng Zhang**, Xuhua Ma, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
