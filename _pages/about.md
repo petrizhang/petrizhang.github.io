@@ -31,7 +31,7 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 🔥 News
 
-- *2026.06*: CLIP, a lightweight cosine-law-based pruning method for IVF-based vector search, is available on arXiv.
+- *2026.06*: TEngineDB-V, an OLAP-native vector search system for large-k workloads at Tencent, was accepted by VLDB 2026.
 - *2026.06*: TRIM was presented at ACM SIGMOD 2026.
 - *2024.12*: UNIFY was accepted by VLDB 2025.
 - *2024.10*: Gave a StarRocks × Tencent webinar on vector similarity search.
