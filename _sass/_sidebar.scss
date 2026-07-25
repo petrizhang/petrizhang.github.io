@@ -136,6 +136,15 @@
   font-size: $type-size-4;
 }
 
+.author__name-zh {
+  display: block;
+  margin-top: 0.35em;
+  color: $gray;
+  font-size: 0.78em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
 .author__bio {
   margin: 0;
 

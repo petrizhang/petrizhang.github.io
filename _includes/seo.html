@@ -8,12 +8,16 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+<title>{{ site.title }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %} - Homepage</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
+
+<meta name="author" content="{{ site.author.name }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %}">
+<meta name="keywords" content="Pengcheng Zhang, 张鹏程, Petri Zhang, Tencent Big Data, TEngine, OLAP, vector database">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -30,17 +34,53 @@
 {% endif %}
 
 <meta property="og:locale" content="en">
+<meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ site.title }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pengcheng Zhang",
+  "alternateName": ["张鹏程", "Petri Zhang"],
+  "url": "https://petrizhang.github.io/",
+  "image": "https://petrizhang.github.io/images/pengcheng-zhang-cropped.png",
+  "jobTitle": "Senior Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Tencent Big Data"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Shanghai Jiao Tong University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Xidian University"
+    }
+  ],
+  "sameAs": [
+    "https://github.com/petrizhang",
+    "https://scholar.google.com/citations?user=pMSs9lsAAAAJ"
+  ],
+  "knowsAbout": [
+    "Modern Execution Engine",
+    "Distributed Data Processing",
+    "Vector Database"
+  ]
+}
+</script>
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">

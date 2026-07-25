@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Pengcheng Zhang"
-description              : "Engineer and researcher at Tencent Big Data. OLAP · TEngine · Vector Search."
+description              : "Pengcheng Zhang (张鹏程) is a Senior Engineer at Tencent Big Data working on modern execution engines, distributed data processing, and vector databases."
+url                      : "https://petrizhang.github.io"
+baseurl                  : ""
 repository               : "petrizhang/petrizhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,6 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pengcheng Zhang"
+  name_zh          : "张鹏程"
   avatar           : "images/pengcheng-zhang-cropped.png"
   bio              : "Engineer & Researcher @ Tencent Big Data"
   location         : "Shanghai, China"
