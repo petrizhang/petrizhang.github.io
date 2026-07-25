@@ -95,6 +95,3 @@ If you are interested in my research or potential collaborations, feel free to [
 
 - <span class="pub-venue">已授权</span> 陆元飞、魏闯先、楼仁杰、吴斌、姚斌、**张鹏程**、高超。<br>
   一种向量检索方法及装置。中国发明专利 CN113449132B，2022（申请号 CN202110991057.2）。
-
-- <span class="pub-venue">申请公开</span> 倪波、周宇、郭松、**张鹏程**、鲍文乐。<br>
-  一种服务异常处理方法、装置和计算设备。中国发明专利申请 CN201811120304.6（公开号 CN110928714A），2020。
