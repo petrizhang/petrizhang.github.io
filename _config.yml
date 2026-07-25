@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengcheng Zhang"
-description              : "Researcher and engineer at Tencent Big Data. Vector Database · OLAP · Multi-modal Lakehouse."
+description              : "Engineer and researcher at Tencent Big Data. OLAP · TEngine · Vector Search."
 repository               : "petrizhang/petrizhang.github.io"
 google_scholar_stats_use_cdn : true
 

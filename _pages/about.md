@@ -19,13 +19,13 @@ redirect_from:
 
 I am an engineer and researcher at **Tencent Big Data**.
 
-I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). My research interests lie at the intersection of vector databases, approximate nearest-neighbor search, OLAP systems, and multi-modal lakehouses. I enjoy building practical systems that turn research ideas into efficient and usable infrastructure. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
+I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). My work primarily focuses on OLAP systems and **TEngine**, a general-purpose heterogeneous computing engine. I also work on vector databases and approximate nearest-neighbor search. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
 
 # 🔬 Research Interests
 
-- **Vector Database:** approximate nearest-neighbor search, filtered search, and high-dimensional pruning
-- **OLAP:** query optimization, vectorized execution, JIT compilation, and semantic caching
-- **Multi-modal Lakehouse:** unified systems for structured and unstructured data analytics
+- **OLAP Systems:** query optimization, semantic caching, and analytical workloads
+- **Heterogeneous Query Execution:** TEngine, vectorized execution, JIT compilation, and pipelined execution
+- **Vector Search:** vector indexes, approximate nearest-neighbor search, filtered search, and high-dimensional pruning
 
 # 🔥 News
 
