@@ -89,6 +89,9 @@ exclude:
   - log
   - node_modules
   - package.json
+  - build_sites.sh
+  - run_server.sh
+  - worker
   - tmp
   - vendor
 keep_files:
