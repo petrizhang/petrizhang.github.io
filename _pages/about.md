@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 I am an engineer and researcher at **Tencent Big Data**.
 
 I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). I enjoy turning research ideas into efficient, practical infrastructure. Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous execution engine at Tencent. I also work on building distributed data-processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, and the unified query gateway **SuperSQL**.
