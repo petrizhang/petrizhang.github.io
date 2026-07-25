@@ -86,6 +86,9 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 📜 Selected Patents
 
+- <span class="pub-venue">授权</span> 王雨农、**张鹏程**、杜小明、马旭华。<br>
+  特征提取方法、装置、电子设备及存储介质。中国发明专利 CN116127292B，2026（申请号 CN202211543083.X）。
+
 - <span class="pub-venue">申请</span> **张鹏程**、程广旭、蒋杰、刘煜宏、陈鹏、罗韩梅、杜佶峻、赵裕隆。<br>
   数据查询方法及其相关产品。中国发明专利申请 CN202411255378.6（公开号 CN121636545A），2026。
 
