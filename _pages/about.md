@@ -69,8 +69,8 @@ If you are interested in my research or potential collaborations, feel free to [
 # 🎓 Education & Experience
 
 - *Present*, Engineer and Researcher, **Tencent Big Data**, Shanghai, China.
-- *Sep. 2017 – Jun. 2024*, Ph.D. in Computer Science and Engineering, **Shanghai Jiao Tong University**, Shanghai, China. Department of Computer Science and Engineering, School of Electronic Information and Electrical Engineering. Advised by [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
-- *Sep. 2013 – Jun. 2017*, B.Eng. in Information Security, **Xidian University**, Xi'an, China. Information Security Experimental Program, School of Cyber Engineering.
+- *2017–2024*, Ph.D. in Computer Science and Engineering, **Shanghai Jiao Tong University**. Advisor: [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
+- *2013–2017*, B.Eng. in Information Security, **Xidian University** (Information Security Experimental Program).
 
 # 💬 Invited Talks
 
