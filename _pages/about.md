@@ -68,7 +68,8 @@ If you are interested in my research or potential collaborations, feel free to [
 
 - *2024.07*, Selected for the **Tencent Qingyun Plan**.
 - *2023*, **Alibaba Outstanding Academic Collaboration Project Award**, for the Alibaba Cloud ECS AIOps system.
-- *2015*, **National First Prize** and the **MATLAB Innovation Award** (the sole undergraduate winner among 25,558 teams), China Undergraduate Mathematical Contest in Modeling.
+- *2015*, **National First Prize**, China Undergraduate Mathematical Contest in Modeling.
+- *2015*, **MATLAB Innovation Award**, the sole undergraduate winner among 25,558 teams.
 
 # 💼 Experience
 
