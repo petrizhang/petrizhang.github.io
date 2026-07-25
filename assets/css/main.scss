@@ -40,6 +40,24 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.pub-venue {
+    display: inline-block;
+    min-width: 6.4rem;
+    margin-right: 0.45rem;
+    padding: 0.08rem 0.4rem;
+    border: 1px solid #b7c0c9;
+    border-radius: 2px;
+    background: transparent;
+    color: #52606d;
+    font-size: 0.68rem;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: 0.02em;
+    text-align: center;
+    vertical-align: 0.08rem;
+    white-space: nowrap;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

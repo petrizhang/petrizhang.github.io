@@ -38,25 +38,25 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 📝 Selected Publications
 
-- **CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search**<br>
+- <span class="pub-venue">arXiv 2026</span> **CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search**<br>
   Y. Song, S. Lu, X. Zhou, **Pengcheng Zhang**, J. Xu. *arXiv preprint*, 2026.
 
-- **Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning**<br>
+- <span class="pub-venue">IEEE TC 2026</span> **Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning**<br>
   Y. Yong, X. Du, Y. Wang, **Pengcheng Zhang**, X. Ma, B. Yao, X. Zheng, L. Jiang. *IEEE Transactions on Computers*, 2026.
 
-- **TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning**<br>
+- <span class="pub-venue">SIGMOD 2026</span> **TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning**<br>
   Yitong Song, **Pengcheng Zhang**, Chao Gao, Bin Yao, Kai Wang, Zongyuan Wu, Lin Qu. *Proceedings of the ACM on Management of Data (SIGMOD 2026)*, 2025.
 
-- **SOC: A Succinct Adaptive Semantic OLAP Caching**<br>
+- <span class="pub-venue">DSE 2025</span> **SOC: A Succinct Adaptive Semantic OLAP Caching**<br>
   J. You, Y. Wang, X. Huang, Z. Yi, W. Fu, K. Liu, **Pengcheng Zhang**, B. Yao. *Data Science and Engineering*, 2025.
 
-- **UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search**<br>
+- <span class="pub-venue">VLDB 2025</span> **UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search**<br>
   Anqi Liang, **Pengcheng Zhang**, Bin Yao, Zhongpu Chen, Yitong Song, Guangxu Cheng. *Proceedings of the VLDB Endowment*, 18(4), 2025.
 
-- **Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search**<br>
+- <span class="pub-venue">VLDBJ 2023</span> **Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search**<br>
   **Pengcheng Zhang**, Bin Yao, Chao Gao, Bin Wu, Xiao He, Feifei Li, Yuanfei Lu, Chaoqun Zhan, Feilong Tang. *The VLDB Journal*, 32(3), 2023.
 
-- **Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds**<br>
+- <span class="pub-venue">DSN 2022</span> **Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds**<br>
   **Pengcheng Zhang**, Yunong Wang, Xuhua Ma, Yaoheng Xu, Bin Yao, Xudong Zheng, Linquan Jiang. *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2022.
 
 # 💼 Experience
