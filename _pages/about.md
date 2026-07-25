@@ -84,10 +84,10 @@ If you are interested in my research or potential collaborations, feel free to [
 
 # 📜 Selected Patents
 
-- <span class="pub-venue">申请</span> **张鹏程**、程广旭、蒋杰、刘煜宏、陈鹏、罗韩梅、杜佶峻、赵裕隆。<br>
+- <span class="pub-venue">申请中</span> **张鹏程**、程广旭、蒋杰、刘煜宏、陈鹏、罗韩梅、杜佶峻、赵裕隆。<br>
   数据查询方法及其相关产品。中国发明专利申请 CN202411255378.6（公开号 CN121636545A），2026。
 
-- <span class="pub-venue">申请</span> **张鹏程**、程广旭、陈奕安。<br>
+- <span class="pub-venue">申请中</span> **张鹏程**、程广旭、陈奕安。<br>
   数据处理方法、装置、设备、存储介质和产品。中国发明专利申请 CN202410039737.8（公开号 CN120296039A），2025。
 
 - <span class="pub-venue">已授权</span> 徐姚亨、姚斌、**张鹏程**、唐飞龙、沈耀、郑文立。<br>
