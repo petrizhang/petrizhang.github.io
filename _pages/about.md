@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher and engineer at **Tencent Big Data**, working on data-intensive systems. My research interests lie at the intersection of vector databases, approximate nearest-neighbor search, OLAP systems, and multi-modal lakehouses.
+I am an engineer and researcher at **Tencent Big Data**, working on data-intensive systems. My research interests lie at the intersection of vector databases, approximate nearest-neighbor search, OLAP systems, and multi-modal lakehouses.
 
 I received my Ph.D. from Shanghai Jiao Tong University. I enjoy building practical systems that turn research ideas into efficient and usable infrastructure. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
 
@@ -66,7 +66,7 @@ I received my Ph.D. from Shanghai Jiao Tong University. I enjoy building practic
 
 # 🎓 Education & Experience
 
-- *Present*, Researcher and Engineer, **Tencent Big Data**, Shanghai, China.
+- *Present*, Engineer and Researcher, **Tencent Big Data**, Shanghai, China.
 - *Ph.D.*, **Shanghai Jiao Tong University**.
 
 # 💬 Invited Talks
