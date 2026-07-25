@@ -19,7 +19,7 @@ redirect_from:
 
 I am an engineer and researcher at **Tencent Big Data**.
 
-I received my M.S. and Ph.D. degrees from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). My research interests lie at the intersection of vector databases, approximate nearest-neighbor search, OLAP systems, and multi-modal lakehouses. I enjoy building practical systems that turn research ideas into efficient and usable infrastructure. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
+I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). My research interests lie at the intersection of vector databases, approximate nearest-neighbor search, OLAP systems, and multi-modal lakehouses. I enjoy building practical systems that turn research ideas into efficient and usable infrastructure. You can find my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=pMSs9lsAAAAJ&hl=en&oi=ao).
 
 # 🔬 Research Interests
 
@@ -67,7 +67,7 @@ I received my M.S. and Ph.D. degrees from **Shanghai Jiao Tong University** unde
 # 🎓 Education & Experience
 
 - *Present*, Engineer and Researcher, **Tencent Big Data**, Shanghai, China.
-- *M.S. and Ph.D.*, **Shanghai Jiao Tong University**, advised by Prof. Bin Yao.
+- *Ph.D.*, **Shanghai Jiao Tong University**, advised by Prof. Bin Yao.
 
 # 💬 Invited Talks
 
