@@ -23,12 +23,7 @@ I am an engineer and researcher at **Tencent Big Data**.
 
 I received my Ph.D. degree from **Shanghai Jiao Tong University** under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html). I enjoy turning research ideas into efficient, practical infrastructure. Currently, my work primarily focuses on **TEngine**, a general-purpose heterogeneous execution engine at Tencent. I also work on building distributed data-processing systems powered by TEngine, including the OLAP system **TEngineDB**, the batch-processing system **Spark**, and the unified query gateway **SuperSQL**.
 
-📢 I am currently looking for:
-
-- **Engineering Internships:** I am looking for engineering interns at Tencent to work on TEngine, with a focus on high-performance execution kernels and GPU query processing.
-- **Research Collaboration:** I am developing **Relify**, a lightweight vector index extension for the open lakehouse stack, and **GQP (GPU Query Processing)**, which explores high-performance GPU algorithms for aggregation and joins. Both projects contain several concrete research directions, and I am looking for undergraduate, master’s, and Ph.D. students to take ownership of one direction and work closely with me toward high-quality publications.
-
-Feel free to [get in touch](mailto:petrizhang@tencent.com) for further discussion.
+If you are interested in internship opportunities at Tencent or research collaboration, feel free to [get in touch](mailto:petrizhang@tencent.com).
 
 # 🔬 Research Interests
 
