@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. He works on **TEngine**, a general-purpose heterogeneous execution engine. Through hardware–software co-optimization, TEngine enables unified, high-performance execution across CPUs, GPUs, and NPUs for **TEngineDB (MPP)** and **TEngine Spark (BSP)**.
+Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. He works on **TEngine**, a general-purpose heterogeneous execution engine that powers **TEngineDB (MPP)** and **TEngine Spark (BSP)** across CPUs, GPUs, and NPUs.
 
 He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
 
