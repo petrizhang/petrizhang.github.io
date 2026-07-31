@@ -89,14 +89,11 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - config
-  - dist
   - gulpfile.js
   - log
   - node_modules
   - package.json
-  - build_sites.sh
   - run_server.sh
-  - worker
   - tmp
   - vendor
 keep_files:
