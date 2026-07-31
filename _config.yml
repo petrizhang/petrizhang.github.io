@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Pengcheng Zhang"
-description              : "Pengcheng Zhang (张鹏程) is a Senior Engineer at Tencent Big Data working on modern execution engines, distributed data processing, and vector databases."
+seo_title                : "Pengcheng Zhang (张鹏程) | Query Execution & Vector Search"
+description              : "Pengcheng Zhang (张鹏程) is a senior engineer and researcher at Tencent Big Data working on TEngine, query execution, distributed data processing, and vector search."
 url                      : "https://petrizhang.github.io"
 baseurl                  : ""
 repository               : "petrizhang/petrizhang.github.io"
@@ -26,7 +27,7 @@ author:
   name             : "Pengcheng Zhang"
   name_zh          : "张鹏程"
   avatar           : "images/pengcheng-zhang-cropped.png"
-  bio              : "Engineer & Researcher @ Tencent Big Data"
+  bio              : "Senior Engineer & Researcher @ Tencent Big Data"
   location         : "Shanghai, China"
   employer         : "Tencent"
   pubmed           : 

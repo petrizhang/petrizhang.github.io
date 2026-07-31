@@ -25,9 +25,10 @@ He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervis
 
 His research in query execution, distributed data processing, and vector search has driven systems innovation and large-scale deployment across ad-hoc analytics, batch processing, and vector-search workloads at Tencent. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
 
-*张鹏程现任腾讯大数据高级工程师及研究人员，主要从事通用异构执行引擎 TEngine 的研发。TEngine 为 TEngineDB（MPP）和 TEngine Spark（BSP）提供执行能力。博士毕业于上海交通大学，师从姚斌教授。*
-
-*他在查询执行、分布式数据处理和向量检索方面的研究推动了系统技术创新与规模化部署，覆盖腾讯的交互式分析、批处理和向量检索负载。相关成果发表于 VLDB、SIGMOD、DSN、The VLDB Journal 和 IEEE Transactions on Computers。入选腾讯青云计划，曾获阿里巴巴优秀学术合作项目奖。*
+<div class="about-zh" lang="zh-CN">
+  <p>张鹏程现任腾讯大数据高级工程师及研究人员，主要从事通用异构执行引擎 TEngine 的研发。TEngine 为 TEngineDB（MPP）和 TEngine Spark（BSP）提供执行能力。博士毕业于上海交通大学，师从姚斌教授。</p>
+  <p>他在查询执行、分布式数据处理和向量检索方面的研究推动了系统技术创新与规模化部署，覆盖腾讯的交互式分析、批处理和向量检索负载。相关成果发表于 VLDB、SIGMOD、DSN、The VLDB Journal 和 IEEE Transactions on Computers。入选腾讯青云计划，曾获阿里巴巴优秀学术合作项目奖。</p>
+</div>
 
 For internship opportunities at Tencent or research collaboration, feel free to [get in touch](mailto:petrizhang@tencent.com).
 

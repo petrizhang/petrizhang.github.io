@@ -8,7 +8,8 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %} - Homepage</title>
+{% assign seo_title = page.seo_title | default: site.seo_title | default: site.title %}
+<title>{{ seo_title | escape_once }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -17,7 +18,8 @@
 {% endif %}
 
 <meta name="author" content="{{ site.author.name }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %}">
-<meta name="keywords" content="Pengcheng Zhang, 张鹏程, Petri Zhang, Tencent Big Data, TEngine, OLAP, vector database">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="keywords" content="Pengcheng Zhang, 张鹏程, Petri Zhang, Tencent Big Data, TEngine, TEngineDB, query execution, distributed data processing, vector search">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -33,10 +35,15 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="en">
+{% assign seo_image = "/images/pengcheng-zhang-social-card.png" | prepend: site.url %}
+
+<meta property="og:type" content="profile">
+<meta property="profile:first_name" content="Pengcheng">
+<meta property="profile:last_name" content="Zhang">
+<meta property="og:locale" content="en_US">
 <meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %}">
+<meta property="og:title" content="{{ seo_title | escape_once }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -47,15 +54,26 @@
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
+<meta property="og:image" content="{{ seo_image }}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1732">
+<meta property="og:image:height" content="908">
+<meta property="og:image:alt" content="Pengcheng Zhang (张鹏程): Query Execution, Distributed Data Processing, and Vector Search">
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "{{ site.url }}/#person",
   "name": "Pengcheng Zhang",
   "alternateName": ["张鹏程", "Petri Zhang"],
   "url": "https://petrizhang.github.io/",
   "image": "https://petrizhang.github.io/images/pengcheng-zhang-cropped.png",
-  "jobTitle": "Senior Engineer",
+  "jobTitle": ["Senior Engineer", "Researcher"],
+  "mainEntityOfPage": {
+    "@type": "ProfilePage",
+    "@id": "{{ site.url }}/"
+  },
   "worksFor": {
     "@type": "Organization",
     "name": "Tencent Big Data"
@@ -75,18 +93,23 @@
     "https://scholar.google.com/citations?user=pMSs9lsAAAAJ"
   ],
   "knowsAbout": [
-    "Modern Execution Engine",
+    "Query Execution",
     "Distributed Data Processing",
-    "Vector Database"
+    "Vector Search",
+    "TEngine"
   ]
 }
 </script>
 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title | escape_once }}">
+<meta name="twitter:description" content="{{ seo_description }}">
+<meta name="twitter:url" content="{{ canonical_url }}">
+<meta name="twitter:image" content="{{ seo_image }}">
+<meta name="twitter:image:alt" content="Pengcheng Zhang (张鹏程): Query Execution, Distributed Data Processing, and Vector Search">
+
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-  <meta name="twitter:description" content="{{ seo_description }}">
-  <meta name="twitter:url" content="{{ canonical_url }}">
 
   {% if seo_author_twitter %}
     <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
