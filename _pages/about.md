@@ -34,9 +34,9 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 # 🔬 Research Interests
 
-- **Modern Execution Engine:** vectorized execution, JIT query compilation, and GPU query execution
+- **Query Execution:** vectorized execution, JIT query compilation, and heterogeneous CPU/GPU execution
 - **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
-- **Vector Database:** vector indexing, approximate nearest-neighbor search, and filtered search
+- **Vector Search:** vector indexing, approximate nearest-neighbor search, and filtered search
 
 # 🔥 News
 
