@@ -19,15 +19,15 @@ redirect_from:
 
 # 👋 About Me
 
-Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. He works on **TEngine**, a general-purpose heterogeneous execution engine powering **TEngineDB (MPP)** and **TEngine Spark (BSP)**.
+Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. He works on **TEngine**, a general-purpose heterogeneous query execution engine powering **TEngineDB (MPP)** and **TEngine Spark (BSP)**.
 
 He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
 
-His research in query execution, distributed data processing, and vector search has led to systems innovations deployed at scale in Tencent’s data infrastructure, serving ad-hoc analytics, batch-processing, and vector-search workloads from Tencent’s Hy LLMs and businesses across gaming, e-commerce, advertising, and financial services. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
+His research focuses on query execution, distributed data processing, and vector search, and the resulting systems are deployed at scale across Tencent’s big data infrastructure, serving ad-hoc analytics, batch-processing, and vector-search workloads from Hy LLMs and businesses across gaming, e-commerce, advertising, and financial services. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
 
 <div class="about-zh" lang="zh-CN">
-  <p>张鹏程现任腾讯大数据高级工程师，主要从事通用异构执行引擎 TEngine 的研发。TEngine 为 TEngineDB（MPP）和 TEngine Spark（BSP）提供执行能力。博士毕业于上海交通大学，师从姚斌教授。</p>
-  <p>他在查询执行、分布式数据处理和向量检索方面的研究推动了系统技术创新，相关成果已在腾讯大数据系统中大规模部署，承载来自混元大模型以及游戏、电商、广告和金融等业务的交互式分析、批处理与向量检索负载。相关工作发表于 VLDB、SIGMOD、DSN、The VLDB Journal 和 IEEE Transactions on Computers。入选腾讯青云计划，曾获阿里巴巴优秀学术合作项目奖。</p>
+  <p>张鹏程现任腾讯大数据高级工程师，主要从事通用异构查询执行引擎 TEngine 的研发。TEngine 为 TEngineDB（MPP）和 TEngine Spark（BSP）提供执行能力。博士毕业于上海交通大学，师从姚斌教授。</p>
+  <p>他的研究聚焦查询执行、分布式数据处理和向量检索，相关创新成果已应用于腾讯大数据基础设施并实现大规模部署，承载来自混元大模型以及游戏、电商、广告和金融等业务的交互式分析、批处理与向量检索负载。相关工作发表于 VLDB、SIGMOD、DSN、The VLDB Journal 和 IEEE Transactions on Computers。入选腾讯青云计划，曾获阿里巴巴优秀学术合作项目奖。</p>
 </div>
 
 For internship opportunities at Tencent or research collaboration, feel free to [get in touch](mailto:petrizhang@tencent.com).
