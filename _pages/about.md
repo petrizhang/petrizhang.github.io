@@ -45,6 +45,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 - <span class="pub-venue">IEEE TC 2026</span> Yaoguang Yong, Xiaoming Du, Yunong Wang, **Pengcheng Zhang**, Xuhua Ma, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
   Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning. *IEEE Transactions on Computers*, 2026.
+  <a class="pub-resource" href="https://doi.org/10.1109/TC.2026.3655008" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
 
 - <span class="pub-venue">SIGMOD 2026</span> Yitong Song, **Pengcheng Zhang**, Chao Gao, Bin Yao, Kai Wang, Zongyuan Wu, Lin Qu.<br>
   TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning. *Proceedings of the ACM on Management of Data (SIGMOD 2026)*, 2025.
@@ -60,9 +61,11 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 - <span class="pub-venue">VLDBJ 2023</span> **Pengcheng Zhang**, Bin Yao, Chao Gao, Bin Wu, Xiao He, Feifei Li, Yuanfei Lu, Chaoqun Zhan, Feilong Tang.<br>
   Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search. *The VLDB Journal*, 32(3), 2023.
+  <a class="pub-resource" href="https://doi.org/10.1007/s00778-022-00762-0" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
 
 - <span class="pub-venue">DSN 2022</span> **Pengcheng Zhang**, Yunong Wang, Xuhua Ma, Yaoheng Xu, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
   Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds. *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2022.
+  <a class="pub-resource" href="https://doi.org/10.1109/DSN53405.2022.00037" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
 
 # 🏆 Honors & Awards
 
