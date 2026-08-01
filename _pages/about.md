@@ -48,15 +48,15 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 - <span class="pub-venue">SIGMOD 2026</span> Yitong Song, **Pengcheng Zhang**, Chao Gao, Bin Yao, Kai Wang, Zongyuan Wu, Lin Qu.<br>
   TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning. *Proceedings of the ACM on Management of Data (SIGMOD 2026)*, 2025.
-  <a class="pub-resource" href="{{ '/files/papers/SIGMOD26-TRIM.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/petrizhang/TRIM" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
+  <a class="pub-resource" href="{{ '/files/papers/SIGMOD26-TRIM.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/petrizhang/TRIM" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">DSE 2025</span> Jinguo You, Yuxuan Wang, Xingrui Huang, Zhenrui Yi, Wanting Fu, Kaiqi Liu, **Pengcheng Zhang**, Bin Yao.<br>
   SOC: A Succinct Adaptive Semantic OLAP Caching. *Data Science and Engineering*, 2025.
-  <a class="pub-resource" href="{{ '/files/papers/DSE25-SOC.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/bizard-lab/soc_cache" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
+  <a class="pub-resource" href="{{ '/files/papers/DSE25-SOC.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/bizard-lab/soc_cache" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">VLDB 2025</span> Anqi Liang, **Pengcheng Zhang**, Bin Yao, Zhongpu Chen, Yitong Song, Guangxu Cheng.<br>
   UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search. *Proceedings of the VLDB Endowment*, 18(4), 2025.
-  <a class="pub-resource" href="{{ '/files/papers/VLDB25-UNIFY.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/sjtu-dbgroup/UNIFY" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
+  <a class="pub-resource" href="{{ '/files/papers/VLDB25-UNIFY.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/sjtu-dbgroup/UNIFY" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">VLDBJ 2023</span> **Pengcheng Zhang**, Bin Yao, Chao Gao, Bin Wu, Xiao He, Feifei Li, Yuanfei Lu, Chaoqun Zhan, Feilong Tang.<br>
   Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search. *The VLDB Journal*, 32(3), 2023.
