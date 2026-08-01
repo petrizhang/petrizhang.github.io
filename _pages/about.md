@@ -26,12 +26,6 @@ His research spans query execution, distributed data processing, and vector sear
 
 For internship opportunities at Tencent or research collaboration, feel free to [get in touch](mailto:petrizhang@tencent.com).
 
-# 🔬 Research Interests
-
-- **Query Execution:** vectorized execution, JIT query compilation, and heterogeneous CPU/GPU execution
-- **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
-- **Vector Search:** vector indexing, approximate nearest-neighbor search, and filtered search
-
 # 🔥 News
 
 - *2026.06*: TEngineDB-V, an OLAP-native vector search system for large-k workloads at Tencent, was accepted by VLDB 2026.
