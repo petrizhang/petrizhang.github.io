@@ -12,11 +12,11 @@ redirect_from:
 
 # 👋 About Me
 
-Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. His work focuses on efficient, scalable data infrastructure for multimodal AI workloads across heterogeneous hardware. He works on **TEngine**, a general-purpose heterogeneous execution engine that powers **TEngineDB (MPP)** and **TEngine Spark (BSP)** across CPUs, GPUs, and NPUs.
+Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. His work focuses on efficient, scalable data infrastructure for multimodal AI workloads across heterogeneous hardware. Currently, he works on **TEngine**, a general-purpose heterogeneous execution engine that powers **TEngineDB (MPP)** and **TEngine Spark (BSP)** across CPUs, GPUs, and NPUs.
 
 He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
 
-His research spans query execution, distributed data processing, and vector search, with the resulting systems deployed at scale across Tencent’s big data infrastructure, serving ad-hoc analytics, batch-processing, and vector-search workloads across Hy LLMs, social platforms, gaming, advertising, financial services, and e-commerce. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
+His research spans query execution, distributed data processing, and vector search, with the resulting systems deployed at scale within Tencent, serving ad-hoc analytics, batch-processing, and vector-search workloads across Hy LLMs, social platforms, gaming, advertising, financial services, and e-commerce. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
 
 <div class="about-zh" lang="zh-CN">
   <p>张鹏程聚焦新一代多模态 AI 负载的异构计算需求，致力于构建统一、高效、可扩展的数据计算基础设施。现任腾讯大数据高级工程师，从事通用异构计算引擎 TEngine 的研发。作为通用计算底座，TEngine 通过软硬件协同优化，为 TEngineDB（MPP）和 TEngine Spark（BSP）提供跨 CPU、GPU 和 NPU 的统一高性能执行能力。</p>
