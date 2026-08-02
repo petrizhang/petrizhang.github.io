@@ -65,7 +65,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 - <span class="pub-venue">DSN 2022</span> **Pengcheng Zhang**, Yunong Wang, Xuhua Ma, Yaoheng Xu, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
   Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds. *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2022.
-  <a class="pub-resource" href="https://doi.org/10.1109/DSN53405.2022.00037" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
+  <a class="pub-resource" href="{{ '/files/papers/DSN22-DRAM.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a>
 
 # 🏆 Honors & Awards
 
