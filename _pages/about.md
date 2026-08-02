@@ -41,30 +41,30 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 </div>
 
 - <span class="pub-venue">VLDB 2026</span> Xufei Wu<sup>^</sup>, **Pengcheng Zhang**<sup>^</sup>, Yitong Song, Xiaobo Zhang, Anqi Liang, Kai Wang, Jijun Du, Yidi Xiong, Guangxu Cheng, Zhe Chen, Peng Chen, Guoliang Li, Xuanhe Zhou, Fan Wu.<br>
-  TEngineDB-V: An OLAP-Native Vector Search System for Large-k Workloads at Tencent. *Proceedings of the VLDB Endowment*, 2026.
+  TEngineDB-V: An OLAP-Native Vector Search System for Large-k Workloads at Tencent. *Proceedings of the VLDB Endowment*, to appear, 2026.
 
 - <span class="pub-venue">IEEE TC 2026</span> Yaoguang Yong, Xiaoming Du, Yunong Wang, **Pengcheng Zhang**, Xuhua Ma, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
-  Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning. *IEEE Transactions on Computers*, 2026.
+  Collaborative Prediction of Cloud DRAM Failures with Rules and Machine Learning. *IEEE Transactions on Computers*, 75(4): 1622–1635, 2026.
   <a class="pub-resource" href="https://doi.org/10.1109/TC.2026.3655008" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
 
 - <span class="pub-venue">SIGMOD 2026</span> Yitong Song, **Pengcheng Zhang**, Chao Gao, Bin Yao, Kai Wang, Zongyuan Wu, Lin Qu.<br>
-  TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning. *Proceedings of the ACM on Management of Data (SIGMOD 2026)*, 2025.
+  TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning. *Proceedings of the ACM on Management of Data*, 3(6): 1–26, 2025.
   <a class="pub-resource" href="{{ '/files/papers/SIGMOD26-TRIM.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/petrizhang/TRIM" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">DSE 2025</span> Jinguo You, Yuxuan Wang, Xingrui Huang, Zhenrui Yi, Wanting Fu, Kaiqi Liu, **Pengcheng Zhang**, Bin Yao.<br>
-  SOC: A Succinct Adaptive Semantic OLAP Caching. *Data Science and Engineering*, 2025.
+  SOC: A Succinct Adaptive Semantic OLAP Caching. *Data Science and Engineering*, 10(4): 621–638, 2025.
   <a class="pub-resource" href="{{ '/files/papers/DSE25-SOC.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/bizard-lab/soc_cache" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">VLDB 2025</span> Anqi Liang, **Pengcheng Zhang**, Bin Yao, Zhongpu Chen, Yitong Song, Guangxu Cheng.<br>
-  UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search. *Proceedings of the VLDB Endowment*, 18(4), 2025.
+  UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search. *Proceedings of the VLDB Endowment*, 18(4): 1118–1130, 2024.
   <a class="pub-resource" href="{{ '/files/papers/VLDB25-UNIFY.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a><a class="pub-resource" href="https://github.com/sjtu-dbgroup/UNIFY" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Code</a>
 
 - <span class="pub-venue">VLDBJ 2023</span> **Pengcheng Zhang**, Bin Yao, Chao Gao, Bin Wu, Xiao He, Feifei Li, Yuanfei Lu, Chaoqun Zhan, Feilong Tang.<br>
-  Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search. *The VLDB Journal*, 32(3), 2023.
+  Learning-Based Query Optimization for Multi-Probe Approximate Nearest Neighbor Search. *The VLDB Journal*, 32(3): 623–645, 2023.
   <a class="pub-resource" href="https://doi.org/10.1007/s00778-022-00762-0" target="_blank" rel="noopener"><i class="fas fa-link fa-fw" aria-hidden="true"></i>Link</a>
 
 - <span class="pub-venue">DSN 2022</span> **Pengcheng Zhang**, Yunong Wang, Xuhua Ma, Yaoheng Xu, Bin Yao, Xudong Zheng, Linquan Jiang.<br>
-  Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds. *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2022.
+  Predicting DRAM-Caused Node Unavailability in Hyper-Scale Clouds. *IEEE/IFIP International Conference on Dependable Systems and Networks*, 275–286, 2022.
   <a class="pub-resource" href="{{ '/files/papers/DSN22-XBrainM.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf fa-fw" aria-hidden="true"></i>Pdf</a>
 
 # 🏆 Honors & Awards
