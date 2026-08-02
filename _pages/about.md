@@ -78,7 +78,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 - *2024.07 – Present*, Senior Engineer, **Tencent Big Data**. Working on TEngine, TEngineDB, and TEngine Spark across CPUs, GPUs, and NPUs.
 - *2023.03 – 2024.07*, Intern, **Tencent Big Data**. Led the development of [TenANN](https://github.com/StarRocks/tenann) and contributed [vector search capabilities](https://github.com/StarRocks/starrocks/issues/46678) to [StarRocks](https://github.com/StarRocks/starrocks), a leading open-source OLAP database widely used by Airbnb, Alibaba, Tencent, and Xiaohongshu.
-- *2021.06 – 2023.03*, Intern, **Alibaba Cloud**. Worked on **XBrain**, an AIOps system that has run in the Alibaba Cloud ECS production environment for years, supporting intelligent operations across more than one million nodes and reducing DRAM-caused node unavailability by 60%. This work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
+- *2021.06 – 2023.03*, Intern, **Alibaba Cloud**. Worked on **XBrainM**, an AIOps system that has run in the Alibaba Cloud ECS production environment for years, supporting intelligent operations across more than one million nodes and reducing DRAM-caused node unavailability by 60%. This work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
 
 # 🎓 Education
 
