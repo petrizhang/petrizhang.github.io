@@ -12,14 +12,17 @@ redirect_from:
 
 # 👋 About Me
 
-Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. His work focuses on efficient, scalable data infrastructure for multimodal AI workloads on heterogeneous hardware. Currently, he works on **TEngine**, a general-purpose, high-performance execution engine that powers **TEngineDB (MPP)** and **TEngine Spark (BSP)** across CPUs, GPUs, and NPUs.
+Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. His work focuses on efficient, scalable data infrastructure for multimodal AI workloads on heterogeneous hardware. Currently, he works on **TEngine**, a general-purpose, high-performance execution engine that powers **SuperSQL (MPP & BSP)** across CPUs, GPUs, and NPUs.
+
+He was a core contributor to the **SuperSQL TPC-DS project**, which set a new 100TB world record at **653.6M QphDS**.
 
 He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
 
 His research spans **query execution, distributed data processing, and vector search**, with the resulting systems deployed at scale within Tencent, serving ad-hoc analytics, batch-processing, and vector-search workloads across Hy LLMs, social platforms, gaming, advertising, financial services, and e-commerce. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
 
 <div class="about-zh" lang="zh-CN">
-  <p>张鹏程聚焦新一代多模态 AI 负载的异构计算需求，致力于构建统一、高效、可扩展的数据计算基础设施。现任腾讯大数据高级工程师，从事通用异构计算引擎 TEngine 的研发。作为通用计算底座，TEngine 通过软硬件协同优化，为 TEngineDB（MPP）和 TEngine Spark（BSP）提供跨 CPU、GPU 和 NPU 的统一高性能执行能力。</p>
+  <p>张鹏程聚焦新一代多模态 AI 负载的异构计算需求，致力于构建统一、高效、可扩展的数据计算基础设施。现任腾讯大数据高级工程师，从事通用异构计算引擎 TEngine 的研发。TEngine 通过软硬件协同优化，为 SuperSQL（MPP 与 BSP）提供跨 CPU、GPU 和 NPU 的统一高性能执行能力。</p>
+  <p>他是 SuperSQL TPC-DS 打榜项目的核心贡献者；该项目以 653.6M QphDS 创造了 TPC-DS 100TB 新世界纪录。</p>
   <p>博士毕业于上海交通大学，师从姚斌教授。</p>
   <p>他的研究涵盖查询执行、分布式数据处理和向量检索，相关创新成果已应用于腾讯大数据基础设施并实现大规模部署，承载混元大模型、社交、游戏、广告、金融和电商等场景下的交互式分析、批处理与向量检索负载。相关工作发表于 VLDB、SIGMOD、DSN、The VLDB Journal 和 IEEE Transactions on Computers。入选腾讯青云计划，曾获阿里巴巴优秀学术合作项目奖。</p>
 </div>
@@ -28,6 +31,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 # 🔥 News
 
+- *2026.08*: [SuperSQL](https://www.tpc.org/5017) set a new 100TB TPC-DS world record at **653.6M QphDS**, delivering approximately **10× the previous best performance** and **5.6× better price-performance**.
 - *2026.06*: TEngineDB-V, an OLAP-native vector search system for large-k workloads at Tencent, was accepted by VLDB 2026.
 - *2026.06*: TRIM was presented at ACM SIGMOD 2026.
 - *2024.12*: UNIFY was accepted by VLDB 2025.
@@ -77,7 +81,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 # 💼 Experience
 
-- *2024.07 – Present*, Senior Engineer, **Tencent Big Data**. Working on TEngine, TEngineDB, and TEngine Spark across CPUs, GPUs, and NPUs.
+- *2024.07 – Present*, Senior Engineer, **Tencent Big Data**. Working on **TEngine**, a general-purpose, high-performance execution engine that powers **SuperSQL (MPP & BSP)** across CPUs, GPUs, and NPUs.
 - *2023.03 – 2024.07*, Intern, **Tencent Big Data**. Led the development of [TenANN](https://github.com/StarRocks/tenann) and contributed [vector search capabilities](https://github.com/StarRocks/starrocks/issues/46678) to [StarRocks](https://github.com/StarRocks/starrocks), a leading open-source OLAP database widely used by Airbnb, Alibaba, Tencent, and Xiaohongshu.
 - *2021.06 – 2023.03*, Intern, **Alibaba Cloud**. Worked on **XBrainM**, an AIOps system that has run in the Alibaba Cloud ECS production environment for years, supporting intelligent operations across more than one million nodes and reducing DRAM-caused node unavailability by 60%. This work resulted in a first-author paper at [DSN 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pMSs9lsAAAAJ&citation_for_view=pMSs9lsAAAAJ:u5HHmVD_uO8C).
 
