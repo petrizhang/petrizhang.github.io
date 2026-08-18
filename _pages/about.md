@@ -14,7 +14,7 @@ redirect_from:
 
 Pengcheng Zhang is a senior engineer and researcher at **Tencent Big Data**. His work focuses on efficient, scalable data infrastructure for multimodal AI workloads on heterogeneous hardware. Currently, he works on **TEngine**, a general-purpose, high-performance execution engine that powers **SuperSQL (MPP & BSP)** across CPUs, GPUs, and NPUs.
 
-He was a core contributor to the **SuperSQL TPC-DS project**, which set a new 100TB world record at **653.6M QphDS**.
+He was a core contributor to the **SuperSQL TPC-DS project**, which set [a new 100TB TPC-DS world record](https://www.tpc.org/5017) at **653.6M QphDS**.
 
 He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervision of [Prof. Bin Yao](https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html).
 
@@ -31,7 +31,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 
 # 🔥 News
 
-- *2026.08*: [SuperSQL](https://www.tpc.org/5017) set a new 100TB TPC-DS world record at **653.6M QphDS**, delivering approximately **10× the previous best performance** and **5.6× better price-performance**.
+- *2026.08*: SuperSQL set [a new 100TB TPC-DS world record](https://www.tpc.org/5017) at **653.6M QphDS**, delivering approximately **10× the previous best performance** and **5.6× better price-performance**.
 - *2026.06*: TEngineDB-V, an OLAP-native vector search system for large-k workloads at Tencent, was accepted by VLDB 2026.
 - *2026.06*: TRIM was presented at ACM SIGMOD 2026.
 - *2024.12*: UNIFY was accepted by VLDB 2025.
