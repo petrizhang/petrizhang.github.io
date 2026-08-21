@@ -17,9 +17,9 @@
   <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
-<meta name="author" content="{{ site.author.name }}{% if site.author.name_zh %} ({{ site.author.name_zh }}){% endif %}">
+<meta name="author" content="{{ site.author.name }}">
 <meta name="robots" content="index, follow, max-image-preview:large">
-<meta name="keywords" content="Pengcheng Zhang, 张鹏程, Petri Zhang, Tencent, 腾讯, Tencent Big Data, 腾讯大数据, Shanghai Jiao Tong University, SJTU, 上海交通大学, TEngine, SuperSQL, TPC-DS, query execution, distributed data processing, vector search">
+<meta name="keywords" content="Pengcheng Zhang, Petri Zhang, Tencent, Tencent Big Data, Shanghai Jiao Tong University, SJTU, TEngine, SuperSQL, TPC-DS, query execution, distributed data processing, vector search">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -41,7 +41,6 @@
 <meta property="profile:first_name" content="Pengcheng">
 <meta property="profile:last_name" content="Zhang">
 <meta property="og:locale" content="en_US">
-<meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ seo_title | escape_once }}">
 
@@ -58,7 +57,7 @@
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="920">
 <meta property="og:image:height" content="920">
-<meta property="og:image:alt" content="Portrait of Pengcheng Zhang 张鹏程">
+<meta property="og:image:alt" content="Portrait of Pengcheng Zhang">
 
 {% if page.url == "/" %}
 <script type="application/ld+json">
@@ -72,18 +71,18 @@
       "name": "Pengcheng Zhang",
       "alternateName": "张鹏程",
       "publisher": { "@id": "{{ site.url }}/#person" },
-      "inLanguage": ["en", "zh-CN"]
+      "inLanguage": "en"
     },
     {
       "@type": "ProfilePage",
       "@id": "{{ site.url }}/#profile-page",
       "url": "{{ site.url }}/",
-      "name": "Pengcheng Zhang 张鹏程",
-      "description": "Pengcheng Zhang (张鹏程) is a Senior Engineer at Tencent Big Data. He received his Ph.D. from Shanghai Jiao Tong University and works on query execution, distributed data processing, and vector search.",
+      "name": "Pengcheng Zhang",
+      "description": "Pengcheng Zhang is a senior engineer and researcher at Tencent Big Data. His work focuses on query execution, distributed data processing, and vector search.",
       "isPartOf": { "@id": "{{ site.url }}/#website" },
       "mainEntity": { "@id": "{{ site.url }}/#person" },
       "primaryImageOfPage": { "@id": "{{ site.url }}/#primary-image" },
-      "inLanguage": ["en", "zh-CN"]
+      "inLanguage": "en"
     },
     {
       "@type": "ImageObject",
@@ -92,7 +91,7 @@
       "contentUrl": "{{ seo_profile_image }}",
       "width": 920,
       "height": 920,
-      "caption": "Pengcheng Zhang 张鹏程"
+      "caption": "Pengcheng Zhang"
     },
     {
       "@type": "Person",
@@ -141,7 +140,7 @@
 <meta name="twitter:description" content="{{ seo_description }}">
 <meta name="twitter:url" content="{{ canonical_url }}">
 <meta name="twitter:image" content="{{ seo_profile_image }}">
-<meta name="twitter:image:alt" content="Portrait of Pengcheng Zhang 张鹏程">
+<meta name="twitter:image:alt" content="Portrait of Pengcheng Zhang">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
