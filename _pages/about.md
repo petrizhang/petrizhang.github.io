@@ -37,6 +37,65 @@ For internship opportunities at Tencent or research collaboration, feel free to 
 - *2024.12*: UNIFY was accepted by VLDB 2025.
 - *2024.10*: Gave a StarRocks × Tencent webinar on vector similarity search.
 
+# 🚀 Selected Projects
+
+<article id="parqdb-project" class="project-feature" aria-labelledby="parqdb-project-title">
+  <div class="project-feature__content">
+    <div class="project-feature__meta">
+      <span class="project-feature__status"><span aria-hidden="true"></span>Open source</span>
+      <span>Creator &amp; maintainer · 2026</span>
+    </div>
+
+    <a class="project-feature__logo" href="https://github.com/parqdb-io/parqdb" target="_blank" rel="noopener" aria-label="ParqDB on GitHub">
+      <img src="{{ '/assets/images/projects/parqdb/logo.svg' | relative_url }}" alt="ParqDB">
+    </a>
+
+    <a class="project-feature__repo-stats" href="https://github.com/parqdb-io/parqdb/stargazers" target="_blank" rel="noopener" aria-label="See people who starred ParqDB on GitHub">
+      <img src="https://img.shields.io/github/stars/parqdb-io/parqdb?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;labelColor=0B2A68&amp;color=6E2BF2" alt="ParqDB GitHub stars">
+    </a>
+
+    <h2 id="parqdb-project-title" class="project-feature__title">Billion-scale vector search, built on open data.</h2>
+    <p class="project-feature__description">
+      An embedded vector database for larger-than-memory search and analytics on multimodal data—powered entirely by Parquet storage and Arrow-native execution.
+    </p>
+
+    <div class="project-feature__metrics" aria-label="ParqDB benchmark highlights">
+      <div><strong>1B</strong><span>vectors</span></div>
+      <div><strong>63.05 ms</strong><span>median latency</span></div>
+      <div><strong>4 GB</strong><span>memory</span></div>
+    </div>
+
+    <ul class="project-feature__tags" aria-label="ParqDB technologies">
+      <li>Parquet</li>
+      <li>Arrow</li>
+      <li>Rust</li>
+      <li>Python</li>
+      <li>WebAssembly</li>
+    </ul>
+
+    <div class="project-feature__actions">
+      <a class="project-feature__button project-feature__button--primary" href="https://search.parqdb.io/" target="_blank" rel="noopener">
+        Try live demo <span aria-hidden="true">↗</span>
+      </a>
+      <a class="project-feature__button" href="https://github.com/parqdb-io/parqdb" target="_blank" rel="noopener">
+        <i class="fab fa-github" aria-hidden="true"></i> GitHub
+      </a>
+    </div>
+  </div>
+
+  <a class="project-feature__demo" href="https://search.parqdb.io/" target="_blank" rel="noopener" aria-label="Open the ParqDB live browser demo">
+    <div class="project-feature__browser-bar" aria-hidden="true">
+      <span></span><span></span><span></span>
+      <div>search.parqdb.io</div>
+    </div>
+    <img src="{{ '/assets/images/projects/parqdb/browser-demo.gif' | relative_url }}" alt="ParqDB searching a published Wikipedia vector index directly in the browser" loading="lazy" decoding="async">
+    <div class="project-feature__demo-caption">
+      <span><i aria-hidden="true"></i> Interactive browser demo</span>
+      <span>WASM · HTTP Range · no query server</span>
+    </div>
+  </a>
+</article>
+
 # 📝 Selected Publications
 
 <div class="pub-legend">
