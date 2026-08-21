@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengcheng Zhang"
-seo_title                : "Pengcheng Zhang — Tencent Big Data · SJTU"
+seo_title                : "Pengcheng Zhang @ Tencent"
 description              : "Pengcheng Zhang is a senior engineer and researcher at Tencent Big Data. His work focuses on query execution, distributed data processing, and vector search."
 url                      : "https://petrizhang.github.io"
 baseurl                  : ""
