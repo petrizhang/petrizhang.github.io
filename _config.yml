@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pengcheng Zhang"
+title                    : "Pengcheng Zhang @ Tencent"
 seo_title                : "Pengcheng Zhang @ Tencent"
 description              : "Pengcheng Zhang is a senior engineer and researcher at Tencent Big Data. His work focuses on query execution, distributed data processing, and vector search."
 url                      : "https://petrizhang.github.io"
