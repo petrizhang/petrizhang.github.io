@@ -20,7 +20,7 @@ He received his Ph.D. from **Shanghai Jiao Tong University**, under the supervis
 
 His research spans **query execution, distributed data processing, and vector search**, with the resulting systems deployed at scale within Tencent, serving ad-hoc analytics, batch-processing, and vector-search workloads across Hy LLMs, social platforms, gaming, advertising, financial services, and e-commerce. His work has appeared in VLDB, SIGMOD, DSN, *The VLDB Journal*, and *IEEE Transactions on Computers*. He was selected for the **Tencent Qingyun Plan** and received the **Alibaba Outstanding Academic Collaboration Project Award**.
 
-<div class="about-zh" lang="zh-CN">
+<div class="about-zh" lang="zh-CN" data-nosnippet>
   <p>张鹏程聚焦新一代多模态 AI 负载的异构计算需求，致力于构建统一、高效、可扩展的数据计算基础设施。现任腾讯大数据高级工程师，从事通用异构计算引擎 TEngine 的研发。TEngine 通过软硬件协同优化，为 SuperSQL（MPP 与 BSP）提供跨 CPU、GPU 和 NPU 的统一高性能执行能力。</p>
   <p>他是 SuperSQL TPC-DS 打榜项目的核心贡献者；该项目以 653.6M QphDS 创造了 TPC-DS 100TB 新世界纪录。</p>
   <p>博士毕业于上海交通大学，师从姚斌教授。</p>
@@ -78,8 +78,8 @@ For internship opportunities at Tencent or research collaboration, feel free to 
   <div class="project-feature__content">
     <div class="project-feature__meta">
       <span class="project-feature__status"><span aria-hidden="true"></span>Open source</span>
-      <a class="project-feature__repo-stats" href="https://github.com/parqdb-io/parqdb/stargazers" target="_blank" rel="noopener" aria-label="See people who starred ParqDB on GitHub (opens in a new tab)">
-        <img src="https://img.shields.io/github/stars/parqdb-io/parqdb?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=FAFAFA&amp;color=FAFAFA&amp;logoColor=60717F" alt="ParqDB GitHub stars">
+      <a class="project-feature__repo-stats" href="https://github.com/parqdb-io/parqdb/stargazers" target="_blank" rel="noopener" data-github-stars="parqdb-io/parqdb" aria-label="50 GitHub stars for ParqDB (opens in a new tab)">
+        <i class="fab fa-github" aria-hidden="true"></i><span>Stars</span><strong data-github-stars-count>50</strong>
       </a>
       <span>Creator &amp; maintainer · 2026</span>
     </div>
