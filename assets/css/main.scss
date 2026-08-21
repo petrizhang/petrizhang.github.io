@@ -179,16 +179,17 @@
 
 .page__content .project-feature__repo-stats {
     display: inline-flex;
-    align-self: flex-start;
-    min-height: 28px;
-    margin: -0.3rem 0 0.9rem;
+    align-items: center;
+    min-height: 20px;
+    border: 1px solid #e5e8eb;
+    border-radius: 4px;
+    overflow: hidden;
     text-decoration: none;
 }
 
 .page__content .project-feature__repo-stats img {
     width: auto;
-    height: 28px;
-    border-radius: 4px;
+    height: 20px;
     box-shadow: none;
 }
 

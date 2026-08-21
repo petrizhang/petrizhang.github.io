@@ -43,6 +43,9 @@ For internship opportunities at Tencent or research collaboration, feel free to 
   <div class="project-feature__content">
     <div class="project-feature__meta">
       <span class="project-feature__status"><span aria-hidden="true"></span>Open source</span>
+      <a class="project-feature__repo-stats" href="https://github.com/parqdb-io/parqdb/stargazers" target="_blank" rel="noopener" aria-label="See people who starred ParqDB on GitHub (opens in a new tab)">
+        <img src="https://img.shields.io/github/stars/parqdb-io/parqdb?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=FAFAFA&amp;color=FAFAFA&amp;logoColor=60717F" alt="ParqDB GitHub stars">
+      </a>
       <span>Creator &amp; maintainer · 2026</span>
     </div>
 
@@ -50,11 +53,7 @@ For internship opportunities at Tencent or research collaboration, feel free to 
       <img src="{{ '/assets/images/projects/parqdb/logo.svg' | relative_url }}" alt="ParqDB">
     </a>
 
-    <a class="project-feature__repo-stats" href="https://github.com/parqdb-io/parqdb/stargazers" target="_blank" rel="noopener" aria-label="See people who starred ParqDB on GitHub">
-      <img src="https://img.shields.io/github/stars/parqdb-io/parqdb?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;labelColor=0B2A68&amp;color=6E2BF2" alt="ParqDB GitHub stars">
-    </a>
-
-    <h2 id="parqdb-project-title" class="project-feature__title">Billion-scale vector search, built on open data.</h2>
+    <h2 id="parqdb-project-title" class="project-feature__title">Billion-scale embedded vector database built entirely on Parquet and Arrow.</h2>
     <p class="project-feature__description">
       An embedded vector database for larger-than-memory search and analytics on multimodal data—powered entirely by Parquet storage and Arrow-native execution.
     </p>
